@@ -1,0 +1,19 @@
+{
+  "name": "image-resizer",
+  "productName": "imageResizer",
+  "version": "1.0.0",
+  "description": "an electron app to resize images.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ann Augustine",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  },
+  "dependencies": {
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
