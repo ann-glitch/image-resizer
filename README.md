@@ -2,7 +2,7 @@
 
 > an electron and javascript desktop application that that lets you choose an image and quickly adjust its width and/or height.
 
-![image-resizer](https://github.com/ann-glitch/image-resizer/blob/main/asssets/preview.png?raw=true)
+![image-resizer](https://github.com/ann-glitch/image-resizer/blob/main/assets/preview.png?raw=true)
 
 ## Usage
 
